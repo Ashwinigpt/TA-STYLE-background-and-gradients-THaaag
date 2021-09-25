@@ -81,14 +81,14 @@ h1{
     height: 200px;
     width: 300px;
     border-radius: 5px;
-    background-image: linear-gradient(to left, #f24648, #332823);
+    background-image: linear-gradient(to right, #332823, purple, #f24648);
     text-align: center;
 }
 .box-3{
     height: 200px;
     width: 300px;
     border-radius: 5px;
-    background-image: radial-gradient(#f24648, #332823);
+    background-image: radial-gradient(#f24648, purple, #332823);
     text-align: center;
 }
 .box-4{
